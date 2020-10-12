@@ -12,7 +12,7 @@ import java.util.Scanner;
  * @author JacquesBuffeteau
  */
 public class TP2 {
-
+//jb
     /**
      * @param args the command line arguments
      */
